@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Màu nền của box shadow -->
+    <corners android:radius="10dp" /> <!-- Độ cong góc của box shadow -->
+    <padding
+        android:left="1dp"
+        android:top="1dp"
+        android:right="1dp"
+        android:bottom="10dp" /> <!-- Độ dày của box shadow -->
+</shape>
